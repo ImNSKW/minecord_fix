@@ -1,0 +1,18 @@
+{
+    "pluginsDir": null,
+    "enable": [
+      "chat"
+    ],
+    "disable": [
+      "login",
+      "death",
+      "whitelist",
+      "server"
+    ],
+    "minecraftLog": "/opt/minecraft_forge_server/logs/latest.log",
+    "minecraftRconHost": "localhost",
+    "minecraftRconPort": 25575,
+    "minecraftRconPassword": "",
+    "discordBotToken": "",
+    "discordChannel": ""
+  }

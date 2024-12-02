@@ -1,0 +1,19 @@
+{
+  "name": "minecord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^4.0.1",
+    "discord.js": "^14.16.3",
+    "iconv": "^3.0.1",
+    "iconv-lite": "^0.6.3",
+    "rcon-client": "^4.2.5",
+    "tail": "^2.2.6"
+  }
+}
